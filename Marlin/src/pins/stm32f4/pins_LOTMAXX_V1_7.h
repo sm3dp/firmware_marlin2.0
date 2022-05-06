@@ -143,7 +143,7 @@
 // DGUS
 //
 #ifdef DGUS_LCD_UI_LOTMAXX
-  #define DGUS_POWER_PIN            PD4
+  #define DGUS_POWER_PIN            PB5
 #endif
 
 //
